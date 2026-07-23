@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 280" width="100%" height="100%">
+  <rect x="5" y="5" width="990" height="270" rx="12" fill="#060B17" stroke="#1E293B" stroke-width="2" />
+  
+  <text x="500" y="40" text-anchor="middle" font-family="'Fira Code', monospace" font-size="16" fill="#00F5D4" font-weight="bold">⚡ ENTERPRISE AI TECHNOLOGY WALL MATRIX</text>
+  <line x1="200" y1="55" x2="800" y2="55" stroke="#1E293B" stroke-width="1" />
+
+  <!-- Grid Cells -->
+  <g font-family="'Fira Code', monospace" font-size="13" font-weight="bold">
+    <!-- Row 1 AI & ML -->
+    <rect x="40" y="75" width="210" height="75" rx="8" fill="#0F172A" stroke="#00F5D4" stroke-width="1" />
+    <text x="145" y="105" text-anchor="middle" fill="#00F5D4">🧠 AI &amp; ML CORE</text>
+    <text x="145" y="130" text-anchor="middle" font-size="11" fill="#94A3B8">Python • PyTorch • CUDA</text>
+
+    <rect x="280" y="75" width="210" height="75" rx="8" fill="#0F172A" stroke="#38BDF8" stroke-width="1" />
+    <text x="385" y="105" text-anchor="middle" fill="#38BDF8">🔌 MODEL PROTOCOLS</text>
+    <text x="385" y="130" text-anchor="middle" font-size="11" fill="#94A3B8">MCP • Ollama • GGUF</text>
+
+    <rect x="520" y="75" width="210" height="75" rx="8" fill="#0F172A" stroke="#8B5CF6" stroke-width="1" />
+    <text x="625" y="105" text-anchor="middle" fill="#8B5CF6">👁️ COMPUTER VISION</text>
+    <text x="625" y="130" text-anchor="middle" font-size="11" fill="#94A3B8">OpenCV • Multimodal AI</text>
+
+    <rect x="760" y="75" width="200" height="75" rx="8" fill="#0F172A" stroke="#EC4899" stroke-width="1" />
+    <text x="860" y="105" text-anchor="middle" fill="#EC4899">📊 DATA ANALYTICS</text>
+    <text x="860" y="130" text-anchor="middle" font-size="11" fill="#94A3B8">Pandas • Scikit-Learn</text>
+
+    <!-- Row 2 Cloud & Backend -->
+    <rect x="40" y="170" width="210" height="75" rx="8" fill="#0F172A" stroke="#10B981" stroke-width="1" />
+    <text x="145" y="200" text-anchor="middle" fill="#10B981">⚡ BACKEND API</text>
+    <text x="145" y="225" text-anchor="middle" font-size="11" fill="#94A3B8">FastAPI • Node.js • C++</text>
+
+    <rect x="280" y="170" width="210" height="75" rx="8" fill="#0F172A" stroke="#F59E0B" stroke-width="1" />
+    <text x="385" y="200" text-anchor="middle" fill="#F59E0B">🌐 WEB FRONTEND</text>
+    <text x="385" y="225" text-anchor="middle" font-size="11" fill="#94A3B8">Next.js • React • TypeScript</text>
+
+    <rect x="520" y="170" width="210" height="75" rx="8" fill="#0F172A" stroke="#6366F1" stroke-width="1" />
+    <text x="625" y="200" text-anchor="middle" fill="#6366F1">🐳 CLOUD &amp; DEVOPS</text>
+    <text x="625" y="225" text-anchor="middle" font-size="11" fill="#94A3B8">Docker • K8s • GCP</text>
+
+    <rect x="760" y="170" width="200" height="75" rx="8" fill="#0F172A" stroke="#3B82F6" stroke-width="1" />
+    <text x="860" y="200" text-anchor="middle" fill="#3B82F6">🐘 DATABASES</text>
+    <text x="860" y="225" text-anchor="middle" font-size="11" fill="#94A3B8">PostgreSQL • Redis</text>
+  </g>
+</svg>

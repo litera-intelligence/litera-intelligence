@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 320" width="100%" height="100%">
+  <rect x="5" y="5" width="990" height="310" rx="12" fill="#070C1A" stroke="#1E293B" stroke-width="2" />
+  
+  <text x="500" y="38" text-anchor="middle" font-family="'Fira Code', monospace" font-size="16" fill="#38BDF8" font-weight="bold">📊 LITERA AI RESEARCH &amp; ADAPTIVE ENGINE DASHBOARD</text>
+  <line x1="200" y1="50" x2="800" y2="50" stroke="#1E293B" stroke-width="1" />
+
+  <!-- Metric Card 1 -->
+  <rect x="40" y="70" width="280" height="110" rx="10" fill="#0F172A" stroke="#00F5D4" stroke-width="1" />
+  <text x="60" y="100" font-family="'Fira Code', monospace" font-size="12" fill="#94A3B8">MODEL INFERENCE SPEED</text>
+  <text x="60" y="140" font-family="'Fira Code', monospace" font-size="30" fill="#00F5D4" font-weight="bold">142 tok/s</text>
+  <text x="60" y="165" font-family="'Fira Code', monospace" font-size="11" fill="#10B981">▲ 99.8% Hardware Efficiency</text>
+
+  <!-- Metric Card 2 -->
+  <rect x="360" y="70" width="280" height="110" rx="10" fill="#0F172A" stroke="#38BDF8" stroke-width="1" />
+  <text x="380" y="100" font-family="'Fira Code', monospace" font-size="12" fill="#94A3B8">KNOWLEDGE TRACING ACCURACY</text>
+  <text x="380" y="140" font-family="'Fira Code', monospace" font-size="30" fill="#38BDF8" font-weight="bold">98.4%</text>
+  <text x="380" y="165" font-family="'Fira Code', monospace" font-size="11" fill="#10B981">▲ Diagnostic Precision</text>
+
+  <!-- Metric Card 3 -->
+  <rect x="680" y="70" width="280" height="110" rx="10" fill="#0F172A" stroke="#8B5CF6" stroke-width="1" />
+  <text x="700" y="100" font-family="'Fira Code', monospace" font-size="12" fill="#94A3B8">ACTIVE STUDENT PATHWAYS</text>
+  <text x="700" y="140" font-family="'Fira Code', monospace" font-size="30" fill="#8B5CF6" font-weight="bold">1.25M+</text>
+  <text x="700" y="165" font-family="'Fira Code', monospace" font-size="11" fill="#10B981">▲ Real-Time Adaptivity</text>
+
+  <!-- Lower Visual Graph representation -->
+  <rect x="40" y="200" width="920" height="95" rx="8" fill="#0B132B" stroke="#1E293B" stroke-width="1" />
+  <path d="M 60,260 Q 200,210 350,250 T 650,220 T 940,240" fill="none" stroke="#00F5D4" stroke-width="3" />
+  <path d="M 60,270 Q 200,230 350,260 T 650,235 T 940,255" fill="none" stroke="#38BDF8" stroke-width="2" stroke-dasharray="6 6" />
+  <text x="60" y="225" font-family="'Fira Code', monospace" font-size="11" fill="#64748B">REAL-TIME COGNITIVE MODEL INFERENCE LATENCY STREAM (LIVE)</text>
+</svg>

@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 350" width="100%" height="100%">
+  <rect x="5" y="5" width="990" height="340" rx="12" fill="#040914" stroke="#1E293B" stroke-width="2" />
+  
+  <!-- Header Bar -->
+  <rect x="5" y="5" width="990" height="38" rx="12" fill="#0D1527" />
+  <circle cx="30" cy="24" r="6" fill="#EF4444" />
+  <circle cx="50" cy="24" r="6" fill="#F59E0B" />
+  <circle cx="70" cy="24" r="6" fill="#10B981" />
+  <text x="500" y="28" text-anchor="middle" font-family="'Fira Code', monospace" font-size="12" fill="#00F5D4" font-weight="bold">bash - litera-ai@edge-node-01:~ (GPU: NVIDIA A100-SXM4-80GB)</text>
+
+  <!-- Terminal Content -->
+  <g transform="translate(25, 65)" font-family="'Fira Code', monospace" font-size="13">
+    <text x="0" y="0" fill="#38BDF8">root@litera-ai-node:# <tspan fill="#F1F5F9">litera-cli run-diagnostic --school-id ID-EDU-2026 --students 1250</tspan></text>
+    
+    <text x="0" y="30" fill="#64748B">[00:00:01] ⚡ Initializing Litera Diagnostic Engine v2.5.0...</text>
+    <text x="0" y="55" fill="#64748B">[00:00:02] 🧠 Loading Knowledge Tracing Model (Neural CoT Transformer)...</text>
+    <text x="0" y="80" fill="#10B981">[SUCCESS] CUDA Device initialized: NVIDIA A100 [VRAM Usage: 14.2GB / 80GB]</text>
+    
+    <text x="0" y="115" fill="#F59E0B">PROCESSING ADAPTIVE LEARNING MATRIX (1,250 Student Profiles):</text>
+    <text x="0" y="140" fill="#00F5D4">[==================================================] 100% | 1,250/1,250 Profiles Analyzed [142ms/item]</text>
+    
+    <text x="0" y="175" fill="#38BDF8">DIAGNOSTIC SUMMARY REPORT:</text>
+    <text x="20" y="200" fill="#F1F5F9">├─ Concept Mastery Index: <tspan fill="#10B981">88.4% (Literacy &amp; Critical Reasoning)</tspan></text>
+    <text x="20" y="225" fill="#F1F5F9">├─ Personalized Learning Paths Generated: <tspan fill="#38BDF8">1,250 Active Pathways</tspan></text>
+    <text x="20" y="250" fill="#F1F5F9">└─ Data-Driven Recommendations: <tspan fill="#F59E0B">Dispatched to Educator Dashboard</tspan></text>
+    
+    <text x="0" y="285" fill="#10B981">root@litera-ai-node:# <tspan fill="#00F5D4">_</tspan></text>
+  </g>
+</svg>
